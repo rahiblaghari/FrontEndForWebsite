@@ -1,0 +1,40 @@
+p {
+    color: brown;
+}
+h1 {
+    font-size: 80px;
+    margin: 0px;
+    background-color: rgba(0, 128, 0, 0.644);
+    text-align: center;
+    color: burlywood;
+    padding: 5px;   
+}
+h2 {
+    font-size: 20px;
+    margin: 0px;
+}
+body{
+    background-color: lightgreen;
+}
+a{
+    text-decoration: none;
+    color: burlywood;
+}
+.box {
+    background-color: burlywood;
+    width: 88%;
+    height: 100px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+.Vertbox {
+    float: left;
+    background-color: burlywood;
+    display: run-in;
+    width: 304px;
+    height: 500px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
